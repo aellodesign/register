@@ -1,0 +1,34 @@
+{
+    "bots":{
+        "footer":"Aello was here?",
+        "VoiceChannel":"978716962878287872",
+        "status":"Uqiret 🖤 1812"
+    },
+
+    "roles":{
+      "register":["992813466668773396"],
+      "maleRoles":"978716834280923186",
+      "erkek1":"978716834280923186",
+      "femaleRoles":"978716829457469540",
+      "kadın1":"978716829457469540",
+      "unregisteres":"978716839242780784",
+      "vip":"978716744703152128",
+      "booster":"967457283397275659",  
+      "minimumyas" : 15,
+      "purchase": false
+    },
+
+    "giriş":{
+      "isim":"✲ İsim • Yaş",
+      "hoşgeldinKanal":"978716956054130709",
+      "kayitlog" : "kayitlog",
+      "kurallar":"978716987360444426",
+      "SunucuAdı":"A S T H A #1812"
+    },
+
+    "taglar":{
+      "taglı":"✲",
+      "tagsız":"✲",
+      "tag":["`crow`"]
+    }
+}
